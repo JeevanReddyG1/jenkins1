@@ -4,3 +4,5 @@ pwd
 uname -a
 who -a
 ls -la /usr/sbin
+echo "uname -a"
+ls -la /var/log
