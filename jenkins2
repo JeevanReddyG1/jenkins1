@@ -10,3 +10,4 @@ pwd
 who -r
 uname -a
 date;time
+echo "hi"
